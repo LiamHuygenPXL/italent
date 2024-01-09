@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/italent/static/css/main.078d082a.css",
+    "main.js": "/italent/static/js/main.10aebd4e.js",
+    "static/media/code.mp4": "/italent/static/media/code.7d1ea6a94986d5c2a068.mp4",
+    "static/media/zak_hackathon.jpg": "/italent/static/media/zak_hackathon.e98efb68db9f741f4c82.jpg",
+    "static/media/hackathon.png": "/italent/static/media/hackathon.60c5ca07caba94cd7096.png",
+    "static/media/zelftest1.jpg": "/italent/static/media/zelftest1.49c8c3acfa9f1d9bc415.jpg",
+    "static/media/zelftest2.jpg": "/italent/static/media/zelftest2.6816ff14a194e5092b63.jpg",
+    "static/media/ik.jpg": "/italent/static/media/ik.e5d3b8a23db93f5a88b7.jpg",
+    "static/media/brein.jpg": "/italent/static/media/brein.2ca9d6bd7e8a9bb441a9.jpg",
+    "static/media/rankingdriehoek.jpg": "/italent/static/media/rankingdriehoek.1d71aa0447e78d6c1a7e.jpg",
+    "static/media/puzzel.jpg": "/italent/static/media/puzzel.4b4b144515bb672b96d5.jpg",
+    "static/media/react.png": "/italent/static/media/react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/innovatieroute.jpg": "/italent/static/media/innovatieroute.c23b7dbd527fc2d7e645.jpg",
+    "static/media/hello-world.mp4": "/italent/static/media/hello-world.15fb2cde5b848b25dfd3.mp4",
+    "static/media/popping.jpg": "/italent/static/media/popping.b71fa28bee89a9ccf6f0.jpg",
+    "static/media/logo_nviso.png": "/italent/static/media/logo_nviso.11995d8324a1fc80611c.png",
+    "static/media/logo_politie.jpg": "/italent/static/media/logo_politie.6d0ab8192751dbbdc167.jpg",
+    "static/media/x-factor.jpg": "/italent/static/media/x-factor.9b1aac47f1d0e65f8753.jpg",
+    "static/media/logo_itlicious.png": "/italent/static/media/logo_itlicious.af0cb47d91dc8b1af824.png",
+    "index.html": "/italent/index.html",
+    "main.078d082a.css.map": "/italent/static/css/main.078d082a.css.map",
+    "main.10aebd4e.js.map": "/italent/static/js/main.10aebd4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.078d082a.css",
+    "static/js/main.10aebd4e.js"
+  ]
+}
